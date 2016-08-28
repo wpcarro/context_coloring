@@ -1,0 +1,32 @@
+{
+  "name": "context_coloring",
+  "version": "1.0.0",
+  "description": "Context Coloring tool",
+  "main": "index.js",
+  "dependencies": {
+    "ansi-styles": "^2.2.1",
+    "chalk": "^1.1.3",
+    "eslevels": "^0.4.0",
+    "esprima": "^2.7.3"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-preset-es2015": "^6.14.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wpcarro/context_coloring.git"
+  },
+  "keywords": [
+    "tooling"
+  ],
+  "author": "William Carroll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wpcarro/context_coloring/issues"
+  },
+  "homepage": "https://github.com/wpcarro/context_coloring#readme"
+}
