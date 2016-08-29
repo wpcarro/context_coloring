@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 node_bin=$(which node)
-pkg_dir="/usr/local/bin/context_coloring"
+pkg_dir="${HOME}/context_coloring"
 babel="${pkg_dir}/node_modules/.bin/babel"
 
 
